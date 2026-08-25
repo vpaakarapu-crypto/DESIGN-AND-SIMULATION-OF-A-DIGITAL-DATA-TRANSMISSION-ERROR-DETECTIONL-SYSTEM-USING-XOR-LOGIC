@@ -1,6 +1,6 @@
 # DESIGN AND SIMULATION OF A DIGITAL DATA TRANSMISSION ERROR DETECTION SYSTEM USING XOR LOGIC
 
-## 📌 Project Overview
+##📌 Project Overview
 
 This project demonstrates the **design and simulation of a digital data transmission error detection system using XOR logic**. The system detects whether transmitted binary data has been altered during transmission by comparing the original transmitted data with the received data.
 
